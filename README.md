@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
------
+-----------
 
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/alesanto?cursus=42cursus)](https://github.com/JaeSeoKim/badge42)
 
