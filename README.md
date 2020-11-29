@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 -----
-<p align="center">
-	[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/alesanto?cursus=42cursus)](https://github.com/JaeSeoKim/badge42)
-</p>
+
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/alesanto?cursus=42cursus)](https://github.com/JaeSeoKim/badge42)
+
 
