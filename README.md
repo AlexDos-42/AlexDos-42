@@ -1,4 +1,4 @@
-<samp> Hi there 👋, I'm Alex.<br> I'm a student at 42 France.<br>
+<samp> Hi, I'm Alex.<br> I'm a student at 42 France.<br>
 You can find my school and personal projects below. Me, I'm here <a href="https://www.linkedin.com/in/dos-santos-alex/"><img src="https://icon-library.net//images/linkedin-logo-icon/linkedin-logo-icon-12.jpg" width="35" /></a>.
  </samp>
 
