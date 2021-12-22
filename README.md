@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 -->
 
 -----------
-<h6 align="center"> <img src="https://komarev.com/ghpvc/?username=AlexDos-42" alt="AlexDos-42" /> </h6>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AlexDos-42&show_icons=true&count_private=true" alt="AlexDos-42" /> </p>
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/alesanto?cursus=42cursus)](https://github.com/JaeSeoKim/badge42)
+<p align="center"> [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/alesanto?cursus=42cursus)](https://github.com/JaeSeoKim/badge42)  </p>
 
 
