@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&text=Hi,%20I'm%20Alex.%20Welcome.&fontSize=24&fontAlignY=40&animation=twinkling" alt="header" width="100%" />
 
-<samp> Hi, I'm Alex.<br> I'm a student at 42 France.<br>
-You can find my school and personal projects below. Me, I'm here <a href="https://www.linkedin.com/in/dos-santos-alex/"><img src="https://icon-library.net//images/linkedin-logo-icon/linkedin-logo-icon-12.jpg" width="35" /></a>.
+<samp>I'm a student at 42 France.<br>
+You can find my school and personal projects below. Me, I'm here <a href="https://www.linkedin.com/in/dos-santos-alex/"><img src="https://cdn-icons-png.flaticon.com/512/408/408703.png" width="35" /></a>.<br>
  </samp>
 
 <!--
@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
------------
 <img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=30" width="100%"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=AlexDos-42&show_icons=true&count_private=true" alt="AlexDos-42" />
