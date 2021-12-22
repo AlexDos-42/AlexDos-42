@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&text=Hi,%20I'm%20Alex.%20Welcome.&fontSize=24&fontAlignY=40&animation=twinkling" alt="header" width="100%" />
+
 <samp> Hi, I'm Alex.<br> I'm a student at 42 France.<br>
 You can find my school and personal projects below. Me, I'm here <a href="https://www.linkedin.com/in/dos-santos-alex/"><img src="https://icon-library.net//images/linkedin-logo-icon/linkedin-logo-icon-12.jpg" width="35" /></a>.
  </samp>
