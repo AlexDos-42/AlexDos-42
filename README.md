@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 -->
 
 -----------
+<h6 align="center"> <img src="https://komarev.com/ghpvc/?username=AlexDos-42" alt="AlexDos-42" /> </h6>
 
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/alesanto?cursus=42cursus)](https://github.com/JaeSeoKim/badge42)
 
