@@ -19,10 +19,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=30" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=60" width="100%"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=AlexDos-42&show_icons=true&count_private=true&theme=algolia" alt="AlexDos-42" />
  
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/alesanto?cursus=42cursus)](https://github.com/JaeSeoKim/badge42)
+<img src="https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=60&reversal=true&section=footer" width="100%"/>
+
 
 
