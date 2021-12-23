@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <p align="center">
 <img src="https://badge42.herokuapp.com/api/stats/alesanto?cursus=42cursus" alt="AlexDos-42" />
 </p>
-<img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=40&reversal=true&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=40&section=footer" width="100%"/>
 
 
 
