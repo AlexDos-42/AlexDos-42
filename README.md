@@ -20,10 +20,12 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=60" width="100%"/>
-
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=AlexDos-42&show_icons=true&count_private=true&theme=algolia" alt="AlexDos-42" />
- 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/alesanto?cursus=42cursus)](https://github.com/JaeSeoKim/badge42)
+</p>
+<p align="center">
+<img src="https://badge42.herokuapp.com/api/stats/alesanto?cursus=42cursus" alt="AlexDos-42" />
+</p>
 <img src="https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=60&reversal=true&section=footer" width="100%"/>
 
 
