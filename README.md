@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&text=Hi,%20I'm%20Alex.%20Welcome.&fontSize=24&fontAlignY=40&animation=twinkling" alt="header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&text=Hi,%20I'm%20Alex.%20Welcome.&fontSize=24&fontAlignY=30&animation=twinkling" alt="header" width="100%" />
 
 <samp>I'm a student at 42 France.<br>
 You can find my school and personal projects below. Me, I'm here <a href="https://www.linkedin.com/in/dos-santos-alex/"><img src="https://cdn-icons-png.flaticon.com/512/408/408703.png" width="35" /></a>.<br><br>
