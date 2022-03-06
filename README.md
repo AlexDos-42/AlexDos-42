@@ -24,9 +24,9 @@ You can find my school and personal projects below. Me, I'm here <a href="https:
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=AlexDos-42&show_icons=true&count_private=true&theme=algolia" alt="AlexDos-42" />
 </p>
-<p align="center">
+<!--<p align="center">
 <img src="https://badge42.herokuapp.com/api/stats/alesanto?cursus=42cursus" alt="AlexDos-42" />
-</p>
+</p> -->
 <img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=30&section=footer" width="100%"/>
 
 
