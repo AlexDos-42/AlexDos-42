@@ -26,7 +26,7 @@ You can find my school and personal projects below. Me, I'm here <a href="https:
 </p>
 
 <p align="center">
-<img src="https://badge42.vercel.app/api/v2/stats/cl128dwyg001109l6rz6dvuvs?cursusId=21" alt="AlexDos-42" />
+<img src="https://badge42.vercel.app/api/v2/cl128dwyg001109l6rz6dvuvs/stats?cursusId=21&coalitionId=45" alt="AlexDos-42" />
 </p>
 
 
