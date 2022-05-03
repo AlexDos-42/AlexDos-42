@@ -18,6 +18,7 @@ You can find my school and personal projects below. Me, I'm here <a href="https:
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+ <img src="https://static.codingame.com/assets/league_legend_03.b7265efe.png" height="40"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=30" width="100%"/>
